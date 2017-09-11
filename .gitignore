@@ -1,0 +1,7 @@
+darknet/
+uploads/
+bin/
+include/
+lib/
+__pycache__/
+
